@@ -1,2 +1,7 @@
 main2.c
 Servoctrl.c
+OLED.c
+PWM.c
+Servo.c
+Delay.c
+Encoder.c
